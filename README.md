@@ -1,1 +1,2 @@
 # Manual-comandos-Linux
+*[Chmod]
