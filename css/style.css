@@ -47,7 +47,7 @@ aside a{
     transition: all 0.3s ease;
     margin-right: 5px;
 }
-/* hace un pequeño resalto al pasar el raton por encima del enlace*/
+/* hace un pequeï¿½o resalto al pasar el raton por encima del enlace*/
 aside a:hover{
     background-color: #ccc;
     transform: scale(1.1);
@@ -89,7 +89,7 @@ main {
     overflow: hidden;
     position: relative;
     margin-left: 30px; 
-	display:flex
+	display:flex;
 	flex-direction:column;
 }
 .terminal {
