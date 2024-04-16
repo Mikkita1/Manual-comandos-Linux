@@ -1,2 +1,2 @@
 # Manual-comandos-Linux
-* [Chmod](index.html)
+* [Chmod](chmod.html)
